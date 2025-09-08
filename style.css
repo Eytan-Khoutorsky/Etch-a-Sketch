@@ -1,0 +1,19 @@
+.container {
+    display:flex;
+    flex-wrap:wrap;
+    width:960px;
+    height:960px;
+    
+}
+
+
+.cell {
+
+    border:1px solid red;
+    box-sizing:border-box;
+
+}
+
+.btn {
+    font-size:50px;
+}
